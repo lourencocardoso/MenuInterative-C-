@@ -1,0 +1,14 @@
+C:\Users\Rui\Desktop\MenuInterative\bin\Debug\net7.0\MenuInterative.exe
+C:\Users\Rui\Desktop\MenuInterative\bin\Debug\net7.0\MenuInterative.deps.json
+C:\Users\Rui\Desktop\MenuInterative\bin\Debug\net7.0\MenuInterative.runtimeconfig.json
+C:\Users\Rui\Desktop\MenuInterative\bin\Debug\net7.0\MenuInterative.dll
+C:\Users\Rui\Desktop\MenuInterative\bin\Debug\net7.0\MenuInterative.pdb
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\MenuInterative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\MenuInterative.AssemblyInfoInputs.cache
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\MenuInterative.AssemblyInfo.cs
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\MenuInterative.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\MenuInterative.dll
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\refint\MenuInterative.dll
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\MenuInterative.pdb
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\MenuInterative.genruntimeconfig.cache
+C:\Users\Rui\Desktop\MenuInterative\obj\Debug\net7.0\ref\MenuInterative.dll
